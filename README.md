@@ -1,2 +1,2 @@
 # data.science.competition
-my struggle to ds.competition
+my struggle for ds.competition
