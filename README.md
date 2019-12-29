@@ -1,8 +1,6 @@
 # data.science.competition
 내가 도전한 data science competition.
 
-잘 못하는 것은 창피한 것이 아니다. 
-
 **1. [Dacon] Jeju BigData Competition - 퇴근시간 버스승차인원 예측**
 
 - 대회 기간 : 2019.11.11 ~ 2019.12.06
