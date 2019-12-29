@@ -1,5 +1,7 @@
 # data.science.competition
-my struggle for ds.competition
+내가 도전한 data science competition.
+
+잘 못하는 것은 창피한 것이 아니다. 
 
 **1. [Dacon] Jeju BigData Competition - 퇴근시간 버스승차인원 예측**
 
