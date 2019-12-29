@@ -1,7 +1,7 @@
 # data.science.competition
 my struggle for ds.competition
 
-1. [Dacon] Jeju BigData Competition - 퇴근시간 버스승차인원 예측
+**1. [Dacon] Jeju BigData Competition - 퇴근시간 버스승차인원 예측**
 
 - 대회 기간 : 2019.11.11 ~ 2019.12.06
 
