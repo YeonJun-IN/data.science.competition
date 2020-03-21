@@ -32,4 +32,4 @@
 
 - 대회 설명 : 미국 대학농구 토너먼트 경기의 승패를 예측하는 binary classification 문제
 
-- 진행 
+- canceled by COVID-19
