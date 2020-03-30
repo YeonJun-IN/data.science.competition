@@ -1,6 +1,6 @@
 ## Domestic
 
-### 1. [Dacon] 13th competition : Jeju BigData Competition - 퇴근시간 버스승차인원 예측
+### [1. \[Dacon\] 13th competition : Jeju BigData Competition - 퇴근시간 버스승차인원 예측](https://dacon.io/competitions/official/229255/leaderboard/)
 
 - 대회 기간 : 2019.11.11 ~ 2019.12.06
 
@@ -8,7 +8,7 @@
 
 - 최종 등수 : 18 / 274 (top 6.5%)
 
-### 2. [Dacon] 15th competition : 원자력 발전소 상태 판단
+### [2. \[Dacon\] 15th competition : 원자력 발전소 상태 판단](https://dacon.io/competitions/official/235551/leaderboard/)
 
 - 대회 기간 : 2020.01.16 ~ 2020.02.12
 
@@ -16,7 +16,7 @@
 
 - 최종 등수 : 2 / 190 (top 1%)
 
-### 3. [Dacon] 온도 추정 경진대회
+### [3. \[Dacon\] 온도 추정 경진대회](https://dacon.io/competitions/official/235584/leaderboard/)
 
 - 대회 기간 : 2020.03.01 ~ 2020.04.13
 
@@ -25,11 +25,3 @@
 - 진행 중
 
 ## International
-
-### 1. [Kaggle] Google Cloud & NCAA® ML Competition 2020-NCAAM 
-
-- 대회 기간 : 2020.02.15 ~ 2020.03.15
-
-- 대회 설명 : 미국 대학농구 토너먼트 경기의 승패를 예측하는 binary classification 문제
-
-- canceled by COVID-19
