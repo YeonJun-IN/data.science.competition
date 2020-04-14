@@ -6,7 +6,7 @@
 
 - 대회 설명 : 퇴근시간(18~20시) 버스 승차인원을 예측하는 regression 문제.
 
-- 최종 등수 : 18 / 274 (top 6.5%)
+- 최종 등수 : 18 / 274 (top 7%)
 
 ### [2. \[Dacon\] 15th competition : 원자력 발전소 상태 판단](https://dacon.io/competitions/official/235551/leaderboard/)
 
@@ -22,7 +22,7 @@
 
 - 대회 설명 : 주변 지역의 기상청 공공데이터를 활용하여, 특정 지점의 미래의 온도를 추정하는 regression 문제
 
-- 최종 등수 : public 9 / 380, **private 19 / 380**
+- 최종 등수 : public 9 / 380, **private 19 / 380** (top 5%)
   - public, private 셋 구성이 앞 40일 / 뒤 40일로 구성이 되어있었는데, 이것을 고려하지 않고 모델을 만들었다.
   - 결과적으로 심한 leaderboard shaking이 발생했다. 원인을 찾아보고 다음번에는 어떻게 할지 고민이 필요함.
 
