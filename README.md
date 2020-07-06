@@ -27,3 +27,10 @@
   - 결과적으로 심한 leaderboard shaking이 발생했다. 원인을 찾아보고 다음번에는 어떻게 할지 고민이 필요함.
 
 ## International
+### [4. \[Kaggle\] M5 - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/leaderboard)
+
+- 대회 기간 : 2020.03.03 ~ 2020.07.01
+
+- 대회 설명 : WalMart의 상품들의 수요를 예측하는 time series forecasting 문제
+
+- 최종 등수 : 1 / 5558 (top 1%)
