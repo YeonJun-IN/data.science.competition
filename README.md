@@ -42,4 +42,4 @@
 
 - 대회 설명 : 특정 약품을 투여했을 때 어떤 반응이 일어나는지 분류하는 multilabel binary classification 문제
 
-- 최종 등수 : 33 / 4384 (top 1%)
+- 최종 등수 : 33 / 4373 (top 1%)
